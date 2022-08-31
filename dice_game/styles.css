@@ -1,0 +1,62 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+  background-image: url("images/dice.jpg");
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster','Sans';
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #a0c7ba;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+
+img {
+  width: 80%;
+}
+.rule{
+    text-align: center;
+    font-size: 100%;
+}
+#bullet{
+    text-align: center;
+}
+.rules{
+    text-align: center;
+}
+ol{
+    list-style-type: none;
+    list-style-position: inside;
+}
+li{
+    color: rgb(26, 4, 4);
+    text-decoration: wavy;
+    text-indent: 0%;
+}
+#game{
+    text-align:center;
+    font-style: italic;
+    font-family: 'Lobster','Sans';
+}
+.btn{
+  border-radius: 50px;
+}

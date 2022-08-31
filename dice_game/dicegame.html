@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+      <h1><em>Refresh Me</em></h1>
+      <div>
+        <button onclick="dicegame()" class="btn"><p>Click here to refresh</p></button>
+      </div>
+      <div class="dice">
+        <p>Player 1</p>
+        <img class="img1" src="images/dice6.png">
+      </div>
+
+      <div class="dice">
+        <p>Player 2</p>
+        <img class="img2" src="images/dice6.png">
+      </div>
+
+    </div>
+    <h1 id="game"><em>Dice Game</em></h1>
+    <div class="rule">
+        <p class="rules">Rules of the game</p>
+            <ol type="none">
+            <li>Everytime you refresh the page the dice number changes for both player 1 and player 2.</li>
+            <li>If the number of dots on player 1's dice is more player 1 wins.</li>
+            <li>If the number of dots on player 2's dice is more player 2 wins.</li>
+            <li>Else the match is drawn.</li>
+        </ol>        
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

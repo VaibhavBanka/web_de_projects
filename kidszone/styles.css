@@ -1,0 +1,35 @@
+body{
+    background:linear-gradient(#22c1c3,#fdbb2d,#22c1c3);
+}
+h1{
+    color: blueviolet;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 100px;
+    text-shadow: 2px 2px red;
+}
+
+div{
+    text-align: center;
+}
+button{
+    width: 250px;
+    height: 130px;
+    margin: 5px 5px 5px 5px;
+    border-radius: 30px;
+    text-align: center;
+    font-family: Lucida Handwriting;
+    background-image:linear-gradient(#833ab4,#fd1d1d,#fcb045);
+}
+
+.kid{
+    font-size: xx-large;
+}
+p{
+    text-align: center;
+    font: bold;
+    font-size: 70px;
+    color: silver;
+    text-shadow: 3px 3px black;
+
+}

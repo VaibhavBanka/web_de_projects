@@ -1,0 +1,85 @@
+body{
+    /* text-shadow: 2px 2px 2px red; */
+    text-align: center;
+    color: #40514E;
+}
+.top-container{
+    background-image:linear-gradient(yellow,red);
+    padding:10px;
+    margin:0px 0px 0px 0px;
+}
+h2{
+    color:#66BFBF;
+    padding-bottom: 10px;
+}
+h1{
+    font-size: 562.5%;  /*16px=100%*/
+    width: 50%;
+    margin: auto;
+    font-family: 'Sacramento', cursive;
+    color:#66BFBF;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    margin-left: 550px;
+}
+.prophoto{
+    height: 300px;
+    width: 300px;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color:#11999E;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cricket-img, .family-img{
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+.travel-img{
+    float:right;
+    margin-left: 30px;
+    width: 25%;
+}
+hr{
+    border: dotted;
+    height: 0px;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    width: 20%;
+    border-width: 8px;
+    padding: 10px;
+}
+.connect{
+    text-align: center;
+}
+.middle-container{
+    margin:100px 0px;
+}
+.contact{
+    width: 30%;
+    margin: auto;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 7px;
+    margin: 0px;
+}
+a{
+    margin:10px 20px;
+}

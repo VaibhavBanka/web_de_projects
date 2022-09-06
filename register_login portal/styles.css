@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    margin-bottom: 100px;
+}
+button{
+    text-align: center;
+    border-radius: 10px;
+    border-width: 5px;
+    height: 100px;
+    width: 300px;
+    font-size: larger;
+}
+img{
+    height: 25px;
+    width: 50px;
+    text-align: right;
+}
+button:hover{
+    background-color:rgba(245, 245, 245, 0.833);
+    cursor:pointer;
+    font-weight: bolder;
+}
